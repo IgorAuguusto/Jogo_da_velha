@@ -19,4 +19,4 @@ Para jogar, execute o arquivo _**jogo_da_velha.py**_ em um interpretador Python.
 * Adicionar a opção de escolher com quem jogar.
 * Adicionar uma interface gráfica para o jogo.
 #
-Este projeto é um exemplo básico de jogo da velha e pode ser usado como base para desenvolvimento de jogos mais complexos. Sinta-se à vontade para fazer melhorias no código e adicionar novas funcionalid
+Este projeto é um exemplo básico de jogo da velha e pode ser usado como base para desenvolvimento de jogos mais complexos. Sinta-se à vontade para fazer melhorias no código e adicionar novas funcionalidades 
